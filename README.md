@@ -3,8 +3,7 @@
 ### 🚀 **Desarrollador Full Stack | Data Science & IA**  
 *Transformando café ☕ en código desde 2021*  
 # ¡Hola Mundo! 👋 Soy Jorge Zatón  
-### 🚀 **Desarrollador Full Stack | Data Science & IA**  
-*Transformando café ☕ en código desde 2021*  
+
 
 ---
 
