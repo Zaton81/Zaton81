@@ -23,7 +23,7 @@
 ### 🚀 **Proyectos Destacados**  
 - **[TaskFlow](https://github.com/Zaton81/Aplicaci-n-de-gesti-n-de-tareas)**: Aplicación de gestión de tareas con autenticación y base de datos.  
 - **[VideoFlix](https://github.com/Zaton81/videoflix)**: Plataforma estilo Netflix para gestionar tu colección de videos.  
-- **[Web Personal](https://github.com/Zaton81/zaton_web)**: Mi **[portfolio profesional][(https://github.com/Zaton81/zaton_web](https://zaton-web-blue-panda.reflex.run/))**construido con el framework Reflex, con una pequeña biografia e información sobre mis libros publicados... ¡También soy escritor!.  
+- **[Web Personal](https://github.com/Zaton81/zaton_web)**: Mi **[portfolio profesional](https://github.com/Zaton81/zaton_web](https://zaton-web-blue-panda.reflex.run/)** construido con el framework Reflex, con una pequeña biografia e información sobre mis libros publicados... ¡También soy escritor!.  
 
 🔍 *Todos mis repositorios: [GitHub](https://github.com/Zaton81/)*  
 
