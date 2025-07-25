@@ -36,6 +36,34 @@
 
 ---
 
+### 🚀 **Proyectos Destacados**
+- **[TaskFlow](https://github.com/Zaton81/Aplicaci-n-de-gesti-n-de-tareas)**: Aplicación de gestión de tareas con autenticación y base de datos.
+- **[VideoFlix](https://github.com/Zaton81/videoflix)**: Plataforma estilo Netflix para gestionar tu colección de videos.
+- **[Web Personal](https://github.com/Zaton81/zaton_web)**: Mi **[portfolio profesional](https://zaton-web-blue-panda.reflex.run/)** construido con el framework Reflex, con una pequeña biografía e información sobre mis libros publicados... ¡También soy escritor!.
+
+🔍 *Todos mis repositorios: [GitHub](https://github.com/Zaton81/)*
+
+---
+
+### 📚 **Cursos Certificados**
+- **Programación Python Avanzado** - Tokio School
+- **Data Science & IA** - IBM SkillsBuild
+
+---
+
+### 📫 **Conectemos**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-zaton/)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JorgeZaton)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](http://jorgezaton.pythonanywhere.com)
+[![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:zaton81@hotmail.com)
+
+---
+
+**⚡ Dato curioso:** *Cuando no estoy codificando, probablemente esté analizando datos de deportes ⚽ o experimentando con nuevas librerías de Python.*
+
+---
+---
+
 ### 🛠️ **Tech Stack**
 
 #### 💻 Languages
@@ -57,3 +85,16 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 🚀 **Featured Projects**
+- **[TaskFlow](https://github.com/Zaton81/Aplicaci-n-de-gesti-n-de-tareas)**: Task management app with authentication and database.
+- **[VideoFlix](https://github.com/Zaton81/videoflix)**: Netflix-style platform to manage your video collection.
+- **[Personal Website](https://github.com/Zaton81/zaton_web)**: My professional **[portfolio](https://zaton-web-blue-panda.reflex.run/)** built with the Reflex framework, featuring a small bio and information about my published books... I'm also a writer!
+
+🔍 *All my repositories: [GitHub](https://github.com/Zaton81/)*
+
+---
+
+### 📚 **Certified
