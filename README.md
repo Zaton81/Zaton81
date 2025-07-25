@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="http://googleusercontent.com/image_generation_content/0" alt="Fondo tecnológico abstracto para perfil de GitHub" width="800"/>
+</p>
 # ¡Hola Mundo! 👋 Soy Jorge Zatón
 
 ### 🚀 **Desarrollador Full Stack | Data Science & IA**
