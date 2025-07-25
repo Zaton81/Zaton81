@@ -112,3 +112,11 @@
 ---
 
 **⚡ Fun fact:** *When I'm not coding, I'm probably analyzing sports data ⚽ or experimenting with new Python libraries.*
+---
+### 📊 GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zaton81&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaton81&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Zaton81&theme=dark)](https://git.io/streak-stats)
+
+---
