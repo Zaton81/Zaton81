@@ -97,4 +97,18 @@
 
 ---
 
-### 📚 **Certified
+### 📚 **Certified Courses**
+- **Advanced Python Programming** - Tokio School
+- **Data Science & AI** - IBM SkillsBuild
+
+---
+
+### 📫 **Let's Connect**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-zaton/)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JorgeZaton)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](http://jorgezaton.pythonanywhere.com)
+[![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:zaton81@hotmail.com)
+
+---
+
+**⚡ Fun fact:** *When I'm not coding, I'm probably analyzing sports data ⚽ or experimenting with new Python libraries.*
