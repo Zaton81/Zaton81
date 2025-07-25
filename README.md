@@ -1,6 +1,7 @@
 <p align="center"><img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/b45c2ef3-87be-46b0-a350-a4aff7de314b" />
 
 </p>
+
 # ¡Hola Mundo! 👋 Soy Jorge Zatón
 
 ### 🚀 **Desarrollador Full Stack | Data Science & IA**
